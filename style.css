@@ -1,0 +1,60 @@
+ .card{
+    background-image: url(imagens/backgorund.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    
+     border-radius: 5%;
+    
+
+     margin:auto;
+     margin-top: 10%;
+
+    
+}  
+
+h1{
+   font-family: 'Dancing Script', cursive;
+   font-weight: normal;
+    
+}
+a{
+    text-decoration: none;
+    color:black;
+    
+}
+
+a:hover{
+    color: rgb(8, 121, 242);
+
+}
+
+#li1{
+    list-style-image: url("imagens/Insta.png");
+    font-family: cursive;
+      
+}
+
+#li2{
+    list-style-image: url("imagens/Twitter.png");
+    font-family: cursive;
+       
+}
+
+#li3{
+    list-style-image: url("imagens/Youtube.png");
+    font-family: cursive;
+        
+}
+
+body{
+    background-color: black;
+   
+}  
+
+
+
+
